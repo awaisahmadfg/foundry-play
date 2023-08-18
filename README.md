@@ -13,6 +13,8 @@ What do we want to do with frameworks?
 -   Deploy
 -   Interact
 
+# Note: Mostly used Commands Related to forge then used the Hardhat at last.
+
 # Resources
 
 -   [Foundry Book](https://onbjerg.github.io/foundry-book/)
